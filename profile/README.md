@@ -1,6 +1,6 @@
 Hi there 👋
 
-🙋‍♀️ This is Westlake Representation Learning Lab, led by Professor [Fajie Yuan](https://fajieyuan.github.io/). 
+🙋‍♀️ This is Westlake Representation Learning Lab, led by Dr. [Fajie Yuan](https://fajieyuan.github.io/). 
 
 👩‍💻 We're focusing on two major research directions: 
 

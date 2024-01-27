@@ -4,7 +4,8 @@ Hi there 👋
 
 👩‍💻 We're focusing on two major research directions: 
 
-- Deep learning (for recommender systems)
 - AI+Life Science.
+- Deep learning (for recommender systems)
+
 
 🤗 Our lab is now recruiting self-motivated interns / full-time (posdoc/assistant/associate) researchers/ Ph.D. students in machine learning and Life AI. 实验室招聘科研助理，实习生，博士生和博士后，请邮件联系。

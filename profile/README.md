@@ -12,7 +12,7 @@ Hi there 👋
 
    ！！！实验室24年春季第三轮招生仍有博士名额，欢迎申请和联系！！！
 
-🤗 Three Large-scale datasets for evaluating foundation recommendation models or transferable recommendaiton models.
+🤗 Four Large-scale datasets for evaluating foundation recommendation models or transferable recommendaiton models.
 
 (1) PixelRec: https://github.com/westlake-repl/PixelRec
 

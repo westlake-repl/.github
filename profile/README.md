@@ -14,10 +14,10 @@ Hi there 👋
 
 🤗 Four Large-scale datasets for evaluating foundation recommendation models or transferable recommendaiton models.
 
-(1) PixelRec: https://github.com/westlake-repl/PixelRec
+- PixelRec: https://github.com/westlake-repl/PixelRec
 
-(2) NineRec: https://github.com/westlake-repl/NineRec
+- NineRec: https://github.com/westlake-repl/NineRec
 
-(3) MicroLens: https://github.com/westlake-repl/MicroLens
+- MicroLens: https://github.com/westlake-repl/MicroLens
 
-(4) Tenrec: https://github.com/yuangh-x/2022-NIPS-Tenrec
+- Tenrec: https://github.com/yuangh-x/2022-NIPS-Tenrec

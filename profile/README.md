@@ -9,7 +9,7 @@ Hi there 👋
 
 🤗 Our lab is now recruiting self-motivated interns / full-time (posdoc/assistant) researchers/ Ph.D. students in machine learning and Life AI. 实验室招聘科研助理，实习生，博士生和博士后，请邮件联系.
 
- **实验室24年春季第三轮招生仍有博士名额，欢迎申请和联系**
+ **西湖大学24年春季第三轮博士招生，仍有名额，欢迎申请和联系**
 
 🤗 Resources: four Large-scale datasets for evaluating foundation / transferable / multi-modal / LLM recommendaiton models.
 

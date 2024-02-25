@@ -1,4 +1,4 @@
-![image](https://github.com/westlake-repl/.github/assets/15176493/761e2586-7c7c-43cb-b01d-69ea10c4ec13)Hi there 👋
+Hi there 👋
 
 🙋‍♀️ This is Westlake Representation Learning Lab, led by Dr. [Fajie Yuan](https://fajieyuan.github.io/). 
 
@@ -12,8 +12,7 @@
 
    ！！！实验室24年春季第三轮招生仍有博士名额，欢迎申请和联系！！！
 
-## ![image](https://github.com/westlake-repl/.github/assets/15176493/6dc6318d-0da8-4f40-9a21-92f9f1c23f89)
-Three Large-scale datasets for evaluating foundation recommendation models or transferable recommendaiton models.
+🤗 Three Large-scale datasets for evaluating foundation recommendation models or transferable recommendaiton models.
 
 (1) PixelRec: https://github.com/westlake-repl/PixelRec
 

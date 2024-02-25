@@ -11,7 +11,7 @@ Hi there 👋
 
  **实验室24年春季第三轮招生仍有博士名额，欢迎申请和联系**
 
-🤗 Four Large-scale datasets for evaluating foundation / transferable / multi-modal / LLM recommendaiton models.
+🤗 Resources: four Large-scale datasets for evaluating foundation / transferable / multi-modal / LLM recommendaiton models.
 
 -  **PixelRec**: https://github.com/westlake-repl/PixelRec
 

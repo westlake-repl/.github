@@ -15,8 +15,8 @@ Hi there 👋
 
 -  **PixelRec**: https://github.com/westlake-repl/PixelRec
 
--  **NineRec**: https://github.com/westlake-repl/NineRec
-
 -  **MicroLens**: https://github.com/westlake-repl/MicroLens
+  
+-  **NineRec （TPAMI）**: https://github.com/westlake-repl/NineRec 
 
--  **Tenrec**: https://github.com/yuangh-x/2022-NIPS-Tenrec
+-  **Tenrec （NeurIPS）**: https://github.com/yuangh-x/2022-NIPS-Tenrec

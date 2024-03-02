@@ -20,4 +20,4 @@ Hi there 👋
 -  **NineRec(TPAMI)**: https://github.com/westlake-repl/NineRec 
 
 -  **Tenrec(NeurIPS)**: https://github.com/yuangh-x/2022-NIPS-Tenrec
-![image](https://github.com/westlake-repl/.github/assets/15176493/83e61937-40c8-4041-9dc0-37b1e785f750)
+

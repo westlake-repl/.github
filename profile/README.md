@@ -1,4 +1,4 @@
-![image](https://github.com/westlake-repl/.github/assets/15176493/995faf40-f178-4aec-ac60-f455dbebe221)Hi there 👋
+Hi there 👋
 
 🙋‍♀️ This is Westlake Representation Learning Lab, led by Dr. [Fajie Yuan](https://fajieyuan.github.io/). 
 

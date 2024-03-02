@@ -1,4 +1,4 @@
-Hi there 👋
+![image](https://github.com/westlake-repl/.github/assets/15176493/995faf40-f178-4aec-ac60-f455dbebe221)Hi there 👋
 
 🙋‍♀️ This is Westlake Representation Learning Lab, led by Dr. [Fajie Yuan](https://fajieyuan.github.io/). 
 
@@ -20,3 +20,4 @@ Hi there 👋
 -  **NineRec(TPAMI)**: https://github.com/westlake-repl/NineRec 
 
 -  **Tenrec(NeurIPS)**: https://github.com/yuangh-x/2022-NIPS-Tenrec
+![image](https://github.com/westlake-repl/.github/assets/15176493/83e61937-40c8-4041-9dc0-37b1e785f750)

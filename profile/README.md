@@ -13,7 +13,7 @@ Hi there 👋
 
 🗃️ **Resources**: four Large-scale datasets for evaluating foundation / transferable / multi-modal / LLM recommendaiton models.
 
--  **PixelRec**: https://github.com/westlake-repl/PixelRec
+-  **PixelRec(SDM)**: https://github.com/westlake-repl/PixelRec
 
 -  **MicroLens(DeepMind Talk)**: https://github.com/westlake-repl/MicroLens
   

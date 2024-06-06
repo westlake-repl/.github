@@ -21,3 +21,13 @@ Hi there 👋
 
 -  **Tenrec(NeurIPS)**: https://github.com/yuangh-x/2022-NIPS-Tenrec
 
+🛠️ **Tools**: AI tools for protein research
+
+-  **Saprot(ICLR)**: https://github.com/westlake-repl/SaProt
+
+-  **SaprotHub**: https://colab.research.google.com/drive/1nxYBed32rkAvoUpt8996Ge6D--Su4_oK
+
+-  **ProTrek**: https://huggingface.co/spaces/westlake-repl/Demo_ProTrek_650M_UniRef50
+
+
+

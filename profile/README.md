@@ -25,7 +25,7 @@ Hi there 👋
 
 -  **Saprot(ICLR)**: https://github.com/westlake-repl/SaProt
 
--  **SaprotHub**: https://colab.research.google.com/drive/1nxYBed32rkAvoUpt8996Ge6D--Su4_oK
+-  **SaprotHub**: https://colab.research.google.com/github/westlake-repl/SaprotHub/blob/main/colab/SaprotHub.ipynb
 
 -  **ProTrek**: https://huggingface.co/spaces/westlake-repl/Demo_ProTrek_650M_UniRef50
 

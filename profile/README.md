@@ -11,7 +11,7 @@ Hi there 👋
 
  **西湖大学24年春季第三轮博士招生，仍有名额，欢迎申请和联系**
 
-🗃️ **Resources**: four Large-scale datasets for evaluating foundation / transferable / multi-modal / LLM recommendaiton models.
+🗃️ **Resources**: Five Large-scale datasets for evaluating foundation / transferable / multi-modal / LLM recommendaiton models.
 
 -  **PixelRec(SDM)**: https://github.com/westlake-repl/PixelRec
 

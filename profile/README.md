@@ -27,9 +27,13 @@ Hi there 👋
 
 -  **Saprot(ICLR)**: https://github.com/westlake-repl/SaProt
 
--  **SaprotHub**: https://colab.research.google.com/github/westlake-repl/SaprotHub/blob/main/colab/SaprotHub.ipynb
+-  **SaprotHub**: https://colab.research.google.com/github/westlake-repl/SaprotHub/blob/main/colab/SaprotHub_v2.ipynb?hl=en
 
--  **ProTrek**: https://huggingface.co/spaces/westlake-repl/Demo_ProTrek_650M_UniRef50
+-  **ProTrek**: http://search-protrek.com/
+
+-  **Evolla**: http://www.chat-protein.com/
+ 
+-  **Pinal**: http://www.denovo-pinal.com/
 
 
 

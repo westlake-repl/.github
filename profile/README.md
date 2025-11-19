@@ -25,7 +25,7 @@ Hi there 👋
  
 -  **Pinal (Nature News)**: http://www.denovo-pinal.com/
 
--  **Cryo-IEF * CryoWizard (Nature Methods)**: https://github.com/westlake-repl/Cryo-IEF
+-  **Cryo-IEF & CryoWizard (Nature Methods)**: https://github.com/westlake-repl/Cryo-IEF
 
 
 

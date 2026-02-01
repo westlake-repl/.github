@@ -11,7 +11,7 @@ Hi there 👋
 
  **西湖大学26、27年博士招生，有多个名额，欢迎申请和联系**  
  
- **We also have  PhD places for students outside of China for the 2026 season. Feel free to contact!**
+ **We also have 2 PhD places for students outside of China for the 2026、2027 season. Feel free to contact!**
 
 🛠️ **Tools**: AI tools for protein research
 

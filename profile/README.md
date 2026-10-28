@@ -23,7 +23,7 @@ Hi there 👋
 
 -  **Evolla**: http://www.chat-protein.com/
  
--  **Pinal (Nature News)**: http://www.denovo-pinal.com/
+-  **Pinal (Nature)**: http://www.denovo-pinal.com/
 
 -  **Cryo-IEF & CryoWizard (Nature Methods)**: https://github.com/westlake-repl/Cryo-IEF
 
